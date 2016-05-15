@@ -1,5 +1,5 @@
 # download-nowrins
-download nowrins from palkar.org
+download nowrins from palkar.org (Sourashtra Matrimony)
 
 ## How To Dowload
 - login into palkar.org, move to nowrins tab and filter
