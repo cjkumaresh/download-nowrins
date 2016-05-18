@@ -3,7 +3,7 @@ download nowrins from palkar.org (Sourashtra Matrimony)
 
 ## How To Dowload
 - login into palkar.org, move to nowrins tab and filter
-- open chrome developer tools `(press F12)`.
+- open browser's developer tools `(press F12)`.
 - go to console tab
 - copy content from `get-nowrins-id.js`
 - paste and execute the script in the console, it will save the ids from the page into browser cache
