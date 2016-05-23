@@ -15,6 +15,7 @@ download nowrins from palkar.org (Sourashtra Matrimony)
 
 ## Todo
 - migrate this code into a chrome plugin
+- modify the script to download both nowrins and nowraans.
 
 ## Contribution
 Feel free to contribute !
