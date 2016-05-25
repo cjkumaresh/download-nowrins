@@ -19,3 +19,5 @@ download nowrins from palkar.org (Sourashtra Matrimony)
 
 ## Contribution
 Feel free to contribute !
+
+Note: Star this repo if it helped you.
