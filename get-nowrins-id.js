@@ -1,4 +1,4 @@
-var existingNowrins = JSON.parse(localStorage.getItem('nowrins')); // take existingNowrins from browser cache
+var existingNowrins = JSON.parse(localStorage.getItem('nowrins')) || []; // take existingNowrins from browser cache
 
 $(".px60.hide-for-small-only").each(function (index, value) {
    var palkarId = $(value).html().replace(/\s/g, "");;
